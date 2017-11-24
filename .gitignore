@@ -1,5 +1,5 @@
 # csv files
-*.csv
+# *.csv
 
 # pkl files
 *.pkl
