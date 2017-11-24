@@ -13,3 +13,6 @@
 # py files
 *.py
 python/*.py
+
+# tmp files
+*~
