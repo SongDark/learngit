@@ -10,4 +10,6 @@
 # zip files
 *.zip
 
-
+# py files
+*.py
+python/*.py
