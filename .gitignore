@@ -1,0 +1,11 @@
+# csv files
+*.csv
+
+# pkl files
+*.pkl
+
+# npy files
+*.npy
+
+# zip files
+*.zip
